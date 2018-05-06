@@ -1,6 +1,6 @@
 # CSI394final documentation
 
-There are 4 branches
+There are 4 folders
 
 1. RWV1:
         RWV1_final can produced the sampled image as rwv1output.ppm
